@@ -5,7 +5,7 @@
     "summary": "Base building block for multicompany submittal workflows",
     "license": "AGPL-3",
     "version": "12.0.1.0.0",
-    "author": "Akretion",
+    "author": "Akretion, Odoo Community Association (OCA)",
     "maintainer": "Akretion",
     "category": "base",
     "depends": ["base"],

@@ -54,7 +54,8 @@ class TestMulticompanySubmit(common.TransactionCase):
                         0,
                         [
                             self.ref(
-                                "product_multicompany_submit.group_multicompany_product_submit"
+                                "product_multicompany_submit."
+                                "group_multicompany_product_submit"
                             ),
                             self.ref("base.group_user"),
                         ],
